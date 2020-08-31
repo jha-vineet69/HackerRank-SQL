@@ -2,7 +2,7 @@
 Answers for SQL Questions from HackerRank
 
 - Problems are divided into categories.
-    - [Basic Select]()
+    - [Basic Select](./Basic%20Select/Basic-Select.pdf)
     - [Advanced Select]()
     - [Aggregation]()
     - [Basic Join]()
@@ -11,7 +11,7 @@ Answers for SQL Questions from HackerRank
 
 
 - Solutions can be found in these scripts:
-    - [Basic Select]()
+    - [Basic Select](./Basic%20Select/Basic-Select-Queries.sql)
     - [Advanced Select]()
     - [Aggregation]()
     - [Basic Join]()
