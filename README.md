@@ -5,7 +5,7 @@ Answers for SQL Questions from HackerRank
     - [Basic Select](./Basic%20Select/Basic-Select.pdf)
     - [Advanced Select](./Advanced%20Select/Advanced-Select.pdf)
     - [Aggregation]()
-    - [Basic Join]()
+    - [Basic Join](./Basic%20Join/Basic-Join.pdf)
     - [Advanced Join]()
     - [Alternative Queries](./Alternative%20Queries/Alternative-Queries.pdf)
 
@@ -14,7 +14,7 @@ Answers for SQL Questions from HackerRank
     - [Basic Select](./Basic%20Select/Basic-Select-Queries.sql)
     - [Advanced Select](./Advanced%20Select/Advanced-Select-Queries.sql)
     - [Aggregation]()
-    - [Basic Join]()
+    - [Basic Join](./Basic%20Join/Basic-Join-Queries.sql)
     - [Advanced Join]()
     - [Alternative Queries](./Alternative%20Queries/Alternative-Queries.sql)
     
