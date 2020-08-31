@@ -3,20 +3,20 @@ Answers for SQL Questions from HackerRank
 
 - Problems are divided into categories.
     - [Basic Select](./Basic%20Select/Basic-Select.pdf)
-    - [Advanced Select]()
+    - [Advanced Select](./Advanced%20Select/Advanced-Select.pdf)
     - [Aggregation]()
     - [Basic Join]()
     - [Advanced Join]()
-    - [Alternative Queries]()
+    - [Alternative Queries](./Alternative%20Queries/Alternative-Queries.pdf)
 
 
 - Solutions can be found in these scripts:
     - [Basic Select](./Basic%20Select/Basic-Select-Queries.sql)
-    - [Advanced Select]()
+    - [Advanced Select](./Advanced%20Select/Advanced-Select-Queries.sql)
     - [Aggregation]()
     - [Basic Join]()
     - [Advanced Join]()
-    - [Alternative Queries]()
+    - [Alternative Queries](./Alternative%20Queries/Alternative-Queries.sql)
     
 
 
